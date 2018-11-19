@@ -1,0 +1,27 @@
+.wrapper{
+  padding-top: 20px;
+  background-color: white;
+  display: flex;
+  img {
+    width: 120px;
+  }
+  h3 {
+    color: $red;
+  }
+}
+
+.wrapper-footer {
+  background-color: white;
+  padding: 20px;
+}
+
+
+.room {
+  display: flex;
+  align-content: space-around;
+}
+
+.flat-photo {
+  padding: 20px;
+  width : 500px;
+}

@@ -1,0 +1,53 @@
+henriclrs:
+  name: "Henri's garbage"
+  description: "Unpleasant room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  maximum_number_of_guests: 2
+  wifi: false
+  rating: 2
+
+antoinecaroni:
+  name: "Antoine's flat"
+  description: "Small flat in Tokyo"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  maximum_number_of_guests: 6
+  wifi: true
+  rating: 4.5
+
+tredregoo:
+  name: "Thomas's home"
+  description: "Outlandish house in Lisbon"
+  city_name: "Lisbon, Portugal"
+  city_slug: "lisbon"
+  maximum_number_of_guests: 5
+  wifi: true
+  rating: 5
+
+vjponc:
+  name: "Jose's bedroom"
+  description: "Tiny flat in Mexico"
+  city_name: "Mexico, Mexico"
+  city_slug: "mexico"
+  maximum_number_of_guests: 2
+  wifi: true
+  rating: 3
+
+JeanMennesson:
+  name: "Jean's Building"
+  description: "Massive Penthouse in Bali"
+  city_name: "Bali, Indonesia"
+  city_slug: "bali"
+  maximum_number_of_guests: 20
+  wifi: true
+  rating: 5
+
+nicolas-crauc:
+  name: "Nicolas's flat"
+  description: "Lovely flat in Melbourne"
+  city_name: "Melbourne, Australia"
+  city_slug: "melbourne"
+  maximum_number_of_guests: 4
+  wifi: true
+  rating: 4
